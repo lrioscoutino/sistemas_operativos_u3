@@ -15,6 +15,10 @@ Continuación directa de la [Unidad 2](../sistemas_operativos_u2/README.md): ah�
 
 Las tres simulaciones de la práctica son Python **ejecutado y verificado** antes de publicarse — las salidas que aparecen en el documento son exactamente las que produce el código al correrlo, no transcripciones de un libro.
 
+## Trabajo final del curso
+
+- [sistemas_operativos_trabajo_final](https://github.com/lrioscoutino/sistemas_operativos_trabajo_final) — especificación del video por equipos con demostración práctica (tema fijo por unidad, rúbrica de 100 puntos)
+
 ## Fuentes
 
 - Programa sinóptico oficial AEC-1061 — TecNM
